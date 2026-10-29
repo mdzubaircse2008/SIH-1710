@@ -61,6 +61,8 @@ RailNav AI is an intelligent indoor railway station navigation platform designed
 └────────────────────────────────────────────────────────────────────────┘
 
 ```
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/e5be0035-d7d0-4508-bd47-3c1b8e975c83" />
+
 ## Use Cases
 ### 1. Passenger & Facility Navigation
 * **Scenario:** A passenger enters the station and needs to locate "Platform 7" or a specific facility like a "Restroom" or "Food Court".
